@@ -4,18 +4,18 @@ we wanted to make a text based game that has zombies in it
 
 
 
-#Flow Chart
+# Flow Chart
 
 
 
 
 
-#Controls
+# Controls
 
 
 
 
-#Authors
+# Authors
 Austin Frantz
 Dakota Wolfe
 Daniel McGlasson
